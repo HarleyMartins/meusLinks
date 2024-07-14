@@ -69,3 +69,10 @@ main {
   max-width: 30rem;
   border-radius: 4px;
 }
+
+.main__links__link:hover {
+  background-color: #2b2b2b;
+  color: #fff;
+  border: 1px solid #66c190;
+  transition: 200ms;
+}
